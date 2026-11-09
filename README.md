@@ -29,13 +29,13 @@ I'm a **Production Engineer** with **20 years** turning complex programs into pr
 
 | | |
 |---|---|
-| 🎓 **Doctorate/PhD (in progress)** | Project Management |
+| 🎓 **Doctorate/PhD (in progress)** | Project Management @ US/MX |
 | 📚 **Master's in BA** | Strategic People Management |
 | 📊 **Master's in BA** | Business Intelligence |
 | 💼 **Master's in Science** | Economics & Finance |
-| 🧠 **Executive Program** | Chief Digital Officer @ FIA-SP|
-| 🏢 **Executive MBA** | Business Administration & Management @ UFRJ|
-| ⚙️ **B.Eng.** | Production / Industrial Engineering @ UFRJ|
+| 🧠 **Executive Program** | Chief Digital Officer @ FIA-SP |
+| 🏢 **Executive MBA** | Business Administration & Management @ UFRJ |
+| ⚙️ **B.Eng.** | Production / Industrial Engineering @ UFRJ |
 
 ## 📜 Certifications
 
