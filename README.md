@@ -14,12 +14,12 @@ I'm a **Production Engineer** with **20 years** turning complex programs into pr
 - 🔄 **Agile at scale** — Scrum, Kanban, OKRs, flow metrics and executive dashboards that make delivery visible
 - ⚙️ **Process automation & AI** — built and led Discovery, Process Mining and RPA/AI squads from PoC to MVP
 - 🖥️ **IT Operations** — led Data, Cloud, ITSM and RPA teams of 45+ people, focused on efficiency and continuous improvement
-- 📉 **Lean Six Sigma** — process redesign that delivered **~R$ 20M/year** in savings by eliminating rework
-- 🤝 **Stakeholder management** — bridging business, tech and partners across LATAM, USA and India 🌎
+- 📉 **Lean Six Sigma** — retail taxes process redesign that delivered **~R$ 20M/year** in savings by eliminating rework and failures
+- 🤝 **Stakeholder management** — bridging business, tech and partners across LATAM, USA, Canada, China and India 🌎
 
 ## 🏆 Highlights
 
-- 🥇 Led a 6-month ITSM/ESM transformation with **200+ stakeholders**, recognized as **Best ITSM & ESM Project of the year**
+- 🥇 Led a 6-month ITSM/ESM transformation with **200+ stakeholders**, recognized as **Best ITSM & ESM Project of the year 2024**
 - ⚡ Delivered a CRM-to-stores integration MVP in **under 2 months**, then rolled it out nationwide in waves
 - 🌱 Mentored **20+ professionals** across automation, process and engineering teams
 
@@ -29,13 +29,13 @@ I'm a **Production Engineer** with **20 years** turning complex programs into pr
 
 | | |
 |---|---|
-| 🎓 **Doctorate (in progress)** | Project Management · 2025–2028 |
-| 📚 **Master's** | Strategic People Management, Leadership & Coaching |
-| 📊 **Master's** | Business Intelligence |
-| 💼 **Master's** | Economics & Management (Finance) |
-| 🧠 **Executive Program** | Chief Digital Officer |
-| 🏢 **Executive MBA** | Business Administration & Management |
-| ⚙️ **B.Eng.** | Production / Industrial Engineering |
+| 🎓 **Doctorate/PhD (in progress)** | Project Management |
+| 📚 **Master's in BA** | Strategic People Management |
+| 📊 **Master's in BA** | Business Intelligence |
+| 💼 **Master's in Science** | Economics & Finance |
+| 🧠 **Executive Program** | Chief Digital Officer @ FIA-SP|
+| 🏢 **Executive MBA** | Business Administration & Management @ UFRJ|
+| ⚙️ **B.Eng.** | Production / Industrial Engineering @ UFRJ|
 
 ## 📜 Certifications
 
